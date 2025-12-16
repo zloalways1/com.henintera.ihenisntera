@@ -1,0 +1,8 @@
+{
+  "allowedCountries": [
+    "GB", "IT", "ES", "PT", "DE", "FR", "CA", "PL", "RO", "GR", "CZ",
+    "SE", "CH", "BR", "NL", "MY", "BE", "IE", "HU", "AT", "AU", "BG",
+    "AR", "CL", "MX", "TR", "UA", "PK", "ID", "BD", "HR", "LV", "LT",
+    "RU", "BY", "IN"
+  ]
+}
